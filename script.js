@@ -20,11 +20,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const games = {
         1: {
-            name: 'Riding Extreme 3D',
-            appToken: 'd28721be-fd2d-4b45-869e-9f253b554e50',
-            promoId: '43e35910-c168-4634-ad4f-52fd764a843f',
-            timing: 30000,
-            attempts: 25,
+            name: 'Zoopolis',
+            appToken: 'b2436c89-e0aa-4aed-8046-9b0515e1c46b',
+            promoId: 'b2436c89-e0aa-4aed-8046-9b0515e1c46b',
+            timing: 20000, // 20 seconds
+            attempts: 20,
         },
         2: {
             name: 'Chain Cube 2048',
@@ -69,10 +69,10 @@ document.addEventListener('DOMContentLoaded', () => {
             attempts: 20,
         },
         8: {
-            name: 'Mud Racing',
-            appToken: '8814a785-97fb-4177-9193-ca4180ff9da8',
-            promoId: '8814a785-97fb-4177-9193-ca4180ff9da8',
-            timing: 30000,
+            name: 'Gangs Wars',
+            appToken: 'b6de60a0-e030-48bb-a551-548372493523',
+            promoId: 'c7821fa7-6632-482c-9635-2bd5798585f9',
+            timing: 30000, // 20 seconds
             attempts: 20,
         },
         9: {
