@@ -81,6 +81,13 @@ document.addEventListener('DOMContentLoaded', () => {
             promoId: 'ef319a80-949a-492e-8ee0-424fb5fc20a6',
             timing: 30000,
             attempts: 20,
+        },
+        10: {
+            name: 'Stone Age',
+            appToken: '04ebd6de-69b7-43d1-9c4b-04a6ca3305af',
+            promoId: '04ebd6de-69b7-43d1-9c4b-04a6ca3305af',
+            timing: 20000, // 40 seconds
+            attempts: 30,
         }
     };
     
